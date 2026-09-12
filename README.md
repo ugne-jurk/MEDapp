@@ -1,0 +1,1 @@
+A simple Java and PostgreSQL application for managing a clinic's patients, doctors, and visits, including basic search, record management, and database-level constraints. Made earlier this year as a uni assignment
